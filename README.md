@@ -50,7 +50,9 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 
 
 ## Contributing
-![We Need You!](http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg)
+<p align="center">
+  <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
+</p>
 Please help contribute this list by contacting [me](https://markdtw.github.io/) or add [pull request](https://github.com/markdtw/awesome-architecture-search/pulls)
 
 Markdown format:
