@@ -1,11 +1,8 @@
 # Awesome Architecture Search [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome architecture search and hyper-parameter optimization resources.
+A curated list of awesome architecture search and hyper-parameter optimization resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers).
 
-Hyper-parameter optimization has always been an interesting field in the Machine Learning community, then architecture search emerges as a rising star in recent years.
-
-Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers).
-
+Hyper-parameter optimization has always been a popular field in the Machine Learning community, architecture search just emerges as a rising star in recent years. These are some of the awesome resources!
 
 ## Table of Contents
 
