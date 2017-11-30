@@ -51,7 +51,7 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 - Accelerating Neural Architecture Search using Performance Prediction [[pdf]](https://arxiv.org/abs/1705.10823)
   - Bowen Baker, Otkrist Gupta, Ramesh Raskar and Nikhil Naik. *Under review ICLR'18*
 - Population Based Training of Neural Networks [[pdf]](https://arxiv.org/abs/1711.09846)
-  - Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando, Koray Kavukcuoglu
+  - Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando and Koray Kavukcuoglu. *Arxiv 1711*
 
 
 ## Contributing
