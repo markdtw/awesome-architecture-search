@@ -22,6 +22,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Barret Zoph and Quoc V. Le. *ICLR'17*
 - Designing Neural Network Architectures Using Reinforcement Learning [[pdf]](https://arxiv.org/abs/1611.02167) [[code]](https://github.com/bowenbaker/metaqnn)
   - Bowen Baker, Otkrist Gupta, Nikhil Naik and Ramesh Raskar. *ICLR'17*
+- Efficient Architecture Search by Network Transformation [[pdf]](https://arxiv.org/abs/1707.04873) [[code]](https://github.com/han-cai/EAS)
+  - Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu and Jun Wang. *AAAI'18*
 - Learning Transferable Architectures for Scalable Image Recognition [[pdf]](https://arxiv.org/abs/1707.07012) [[nasnet]](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet)
   - Barret Zoph, Vijay Vasudevan, Jonathan Shlens and Quoc V. Le. *Arxiv 1707*
 - Practical Network Blocks Design with Q-Learning [[pdf]](https://arxiv.org/abs/1708.05552)
