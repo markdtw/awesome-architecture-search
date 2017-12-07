@@ -51,7 +51,7 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 - Learning Curve Prediction with Bayesian Neural Networks [[pdf]](http://ml.informatik.uni-freiburg.de/papers/17-ICLR-LCNet.pdf)
   - Aaron Klein, Stefan Falkner, Jost Tobias Springenberg and Frank Hutter. *ICLR'17*
 - Accelerating Neural Architecture Search using Performance Prediction [[pdf]](https://arxiv.org/abs/1705.10823)
-  - Bowen Baker, Otkrist Gupta, Ramesh Raskar and Nikhil Naik. *Under review ICLR'18*
+  - Bowen Baker, Otkrist Gupta, Ramesh Raskar and Nikhil Naik. *Under review ICLR'18*
 - Hyperparameter Optimization: A Spectral Approach [[pdf]](https://arxiv.org/abs/1706.00764) [[code]](https://github.com/callowbird/Harmonica)
   - Elad Hazan, Adam Klivans and Yang Yuan. *NIPS DLTP Workshop 2017*
 - Population Based Training of Neural Networks [[pdf]](https://arxiv.org/abs/1711.09846)
