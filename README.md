@@ -21,41 +21,47 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 - Neural Architecture Search with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1611.01578)
   - Barret Zoph and Quoc V. Le. *ICLR'17*
 - Designing Neural Network Architectures Using Reinforcement Learning [[pdf]](https://arxiv.org/abs/1611.02167) [[code]](https://github.com/bowenbaker/metaqnn)
-  - Bowen Baker, Otkrist Gupta, Nikhil Naik and Ramesh Raskar. *ICLR'17*
+  - Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar. *ICLR'17*
 - Efficient Architecture Search by Network Transformation [[pdf]](https://arxiv.org/abs/1707.04873) [[code]](https://github.com/han-cai/EAS)
-  - Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu and Jun Wang. *AAAI'18*
+  - Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu, Jun Wang. *AAAI'18*
 - Learning Transferable Architectures for Scalable Image Recognition [[pdf]](https://arxiv.org/abs/1707.07012) [[nasnet]](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet)
-  - Barret Zoph, Vijay Vasudevan, Jonathan Shlens and Quoc V. Le. *Arxiv 1707*
+  - Barret Zoph, Vijay Vasudevan, Jonathan Shlens, Quoc V. Le. *Arxiv 1707*
 - Practical Network Blocks Design with Q-Learning [[pdf]](https://arxiv.org/abs/1708.05552)
-  - Zhao Zhong, Junjie Yan and Cheng-Lin Liu. *AAAI'18*
+  - Zhao Zhong, Junjie Yan, Cheng-Lin Liu. *AAAI'18*
 
 ### Evolutionary Algorithm
 - Large-Scale Evolution of Image Classifiers [[pdf]](https://arxiv.org/abs/1703.01041)
-  - Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Jie Tan, Quoc Le and Alex Kurakin. *ICML'17*
+  - Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Jie Tan, Quoc Le, Alex Kurakin. *ICML'17*
 - Genetic CNN [[pdf]](https://arxiv.org/abs/1703.01513) [[code]](https://github.com/aqibsaeed/Genetic-CNN)
   - Lingxi Xie and Alan Yuille. *ICCV'17*
 - Hierarchical Representations for Efficient Architecture Search [[pdf]](https://arxiv.org/abs/1711.00436)
-  - Hanxiao Liu, Karen Simonyan, Oriol Vinyals, Chrisantha Fernando and Koray Kavukcuoglu. *Under review ICLR'18*
+  - Hanxiao Liu, Karen Simonyan, Oriol Vinyals, Chrisantha Fernando, Koray Kavukcuoglu. *ICLR'18*
+- Regularized Evolution for Image Classifier Architecture Search [[pdf]](https://arxiv.org/abs/1802.01548)
+  - Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le. *Arxiv 1802*
 
 ### Others
 - DeepArchitect: Automatically Designing and Training Deep Architectures [[pdf]](https://arxiv.org/abs/1704.08792) [[code]](https://github.com/negrinho/deep_architect)
   - Renato Negrinho and Geoff Gordon. *Arxiv 1704*
-- &ast;SMASH: One-Shot Model Architecture Search through HyperNetworks [[pdf]](https://arxiv.org/abs/1708.05344) [[code]](https://github.com/ajbrock/SMASH)
-  - Andrew Brock, Theodore Lim, J.M. Ritchie and Nick Weston. *Under review ICLR'18*
+- SMASH: One-Shot Model Architecture Search through HyperNetworks [[pdf]](https://arxiv.org/abs/1708.05344) [[code]](https://github.com/ajbrock/SMASH)
+  - Andrew Brock, Theodore Lim, J.M. Ritchie, Nick Weston. *ICLR'18*
+- Simple and efficient architecture search for Convolutional Neural Networks [[pdf]](https://arxiv.org/abs/1711.04528)
+  - Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter. *Invited to ICLR'18 Workshop*
+- Progressive Neural Architecture Search [[pdf]](https://arxiv.org/abs/1712.00559)
+  - Chenxi Liu, Barret Zoph, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy. *Arxiv 1712*
 
 ## Hyper-Parameter Search
 - Speeding up Automatic Hyperparameter Optimization of Deep Neural Networksby Extrapolation of Learning Curves [[pdf]](http://ml.informatik.uni-freiburg.de/papers/15-IJCAI-Extrapolation_of_Learning_Curves.pdf) [[code]](https://github.com/automl/pylearningcurvepredictor)
-  - Tobias Domhan, Jost Tobias Springenberg and Frank Hutter. *IJCAI'15*
+  - Tobias Domhan, Jost Tobias Springenberg, Frank Hutter. *IJCAI'15*
 - Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization [[pdf]](https://arxiv.org/abs/1603.06560)
-  - Lisha Li, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh and Ameet Talwalkar. *ICLR'17*
+  - Lisha Li, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, Ameet Talwalkar. *ICLR'17*
 - Learning Curve Prediction with Bayesian Neural Networks [[pdf]](http://ml.informatik.uni-freiburg.de/papers/17-ICLR-LCNet.pdf)
-  - Aaron Klein, Stefan Falkner, Jost Tobias Springenberg and Frank Hutter. *ICLR'17*
+  - Aaron Klein, Stefan Falkner, Jost Tobias Springenberg, Frank Hutter. *ICLR'17*
 - Accelerating Neural Architecture Search using Performance Prediction [[pdf]](https://arxiv.org/abs/1705.10823)
-  - Bowen Baker, Otkrist Gupta, Ramesh Raskar and Nikhil Naik. *Under review ICLR'18*
+  - Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik. *Invited to ICLR'18 Workshop*
 - Hyperparameter Optimization: A Spectral Approach [[pdf]](https://arxiv.org/abs/1706.00764) [[code]](https://github.com/callowbird/Harmonica)
-  - Elad Hazan, Adam Klivans and Yang Yuan. *NIPS DLTP Workshop 2017*
+  - Elad Hazan, Adam Klivans, Yang Yuan. *NIPS DLTP Workshop 2017*
 - Population Based Training of Neural Networks [[pdf]](https://arxiv.org/abs/1711.09846)
-  - Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando and Koray Kavukcuoglu. *Arxiv 1711*
+  - Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando, Koray Kavukcuoglu. *Arxiv 1711*
 
 
 ## Contributing
