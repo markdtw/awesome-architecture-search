@@ -29,7 +29,7 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 - Practical Network Blocks Design with Q-Learning [[pdf]](https://arxiv.org/abs/1708.05552)
   - Zhao Zhong, Junjie Yan, Cheng-Lin Liu. *AAAI'18*
 - Efficient Neural Architecture Search via Parameter Sharing [[pdf]](https://arxiv.org/abs/1802.03268) [[code (not official)]](https://github.com/carpedm20/ENAS-pytorch)
-  - Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean
+  - Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean. *Arxiv 1802*
 
 ### Evolutionary Algorithm
 - Large-Scale Evolution of Image Classifiers [[pdf]](https://arxiv.org/abs/1703.01041)
