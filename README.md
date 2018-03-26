@@ -51,7 +51,7 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 - Progressive Neural Architecture Search [[pdf]](https://arxiv.org/abs/1712.00559)
   - Chenxi Liu, Barret Zoph, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy. *Arxiv 1712*
 - PPP-Net: Platform-aware Progressive Search for Pareto-optimal Neural Architectures [[pdf]](https://openreview.net/forum?id=B1NT3TAIM)
-  - Jin-Dong Dong, An-Chieh Cheng, Da-Cheng Juan, Wei Wei, Min Sun. *ICLR'18 Workshop*
+  - [Jin-Dong Dong](https://markdtw.github.io), An-Chieh Cheng, Da-Cheng Juan, Wei Wei, Min Sun. *ICLR'18 Workshop*
 - Neural Architecture Search with Bayesian Optimisation and Optimal Transport [[pdf]](https://arxiv.org/abs/1802.07191)
   - Kirthevasan Kandasamy, Willie Neiswanger, Jeff Schneider, Barnabas Poczos, Eric Xing. *Arxiv 1802*
 
