@@ -82,7 +82,7 @@ Please help contribute this list by contacting [me](https://markdtw.github.io/) 
 Markdown format:
 ```markdown
 - Paper Name [[pdf]](link) [[code]](link)
-  - Author 1, Author 2 and Author 3. *Conference'Year*
+  - Author 1, Author 2, Author 3. *Conference'Year*
 ```
 
 
