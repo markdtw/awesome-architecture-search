@@ -56,7 +56,7 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Kirthevasan Kandasamy, Willie Neiswanger, Jeff Schneider, Barnabas Poczos, Eric Xing. *Arxiv 1802*
 - Path-Level Network Transformation for Efficient Architecture Search [[pdf]](https://arxiv.org/abs/1806.02639) [[code]](https://github.com/han-cai/PathLevel-EAS)
   - Han Cai, Jiacheng Yang, Weinan Zhang, Song Han, Yong Yu. *ICML'18*
-- Effective Building Block Design for Deep Convolutional Neural Networks using Search [[pdf (arxiv)]](https://arxiv.org/abs/1801.08577)
+- Effective Building Block Design for Deep Convolutional Neural Networks using Search [[pdf]](https://arxiv.org/abs/1801.08577)
   - Jayanta K Dutta, Jiayi Liu, Unmesh Kurup, Mohak Shah
 
 ## Hyper-Parameter Search
