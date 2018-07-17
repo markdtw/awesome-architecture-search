@@ -50,14 +50,16 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter. *Invited to ICLR'18 Workshop*
 - Progressive Neural Architecture Search [[pdf]](https://arxiv.org/abs/1712.00559)
   - Chenxi Liu, Barret Zoph, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy. *Arxiv 1712*
-- DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures [[pdf (ICLR'18 Workshop)]](https://openreview.net/forum?id=B1NT3TAIM) [[pdf (arxiv)]](https://arxiv.org/abs/1806.08198)
-  - [Jin-Dong Dong](https://markdtw.github.io), An-Chieh Cheng, Da-Cheng Juan, Wei Wei, Min Sun. *ICLR'18 Workshop*
+- DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures [[pdf (ICLR'18 Workshop)]](https://openreview.net/forum?id=B1NT3TAIM) [[pdf (ECCV)]](https://arxiv.org/abs/1806.08198)
+  - [Jin-Dong Dong](https://markdtw.github.io), An-Chieh Cheng, Da-Cheng Juan, Wei Wei, Min Sun. *ECCV'18*
 - Neural Architecture Search with Bayesian Optimisation and Optimal Transport [[pdf]](https://arxiv.org/abs/1802.07191)
   - Kirthevasan Kandasamy, Willie Neiswanger, Jeff Schneider, Barnabas Poczos, Eric Xing. *Arxiv 1802*
 - Path-Level Network Transformation for Efficient Architecture Search [[pdf]](https://arxiv.org/abs/1806.02639) [[code]](https://github.com/han-cai/PathLevel-EAS)
   - Han Cai, Jiacheng Yang, Weinan Zhang, Song Han, Yong Yu. *ICML'18*
 - Effective Building Block Design for Deep Convolutional Neural Networks using Search [[pdf]](https://arxiv.org/abs/1801.08577)
-  - Jayanta K Dutta, Jiayi Liu, Unmesh Kurup, Mohak Shah
+  - Jayanta K Dutta, Jiayi Liu, Unmesh Kurup, Mohak Shah. *Arxiv 1801*
+- DARTS: Differentiable Architecture Search [[pdf]](https://arxiv.org/abs/1806.09055) [[code]](https://github.com/quark0/darts)
+  - Hanxiao Liu, Karen Simonyan, Yiming Yang. *Arxiv 1806*
 
 ## Hyper-Parameter Search
 - Speeding up Automatic Hyperparameter Optimization of Deep Neural Networksby Extrapolation of Learning Curves [[pdf]](http://ml.informatik.uni-freiburg.de/papers/15-IJCAI-Extrapolation_of_Learning_Curves.pdf) [[code]](https://github.com/automl/pylearningcurvepredictor)
