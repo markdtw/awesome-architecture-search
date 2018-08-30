@@ -42,6 +42,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le. *Arxiv 1802*
 
 ### Others
+- AMC: AutoML for Model Compression and Acceleration on Mobile Devices [[pdf]](https://arxiv.org/abs/1802.03494)
+  - Yihui He, Ji Lin, Zhijian Liu, Hanrui Wang, Li-Jia Li, Song Han *ECCV'2018*
 - DeepArchitect: Automatically Designing and Training Deep Architectures [[pdf]](https://arxiv.org/abs/1704.08792) [[code]](https://github.com/negrinho/deep_architect)
   - Renato Negrinho and Geoff Gordon. *Arxiv 1704*
 - SMASH: One-Shot Model Architecture Search through HyperNetworks [[pdf]](https://arxiv.org/abs/1708.05344) [[code]](https://github.com/ajbrock/SMASH)
