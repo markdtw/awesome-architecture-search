@@ -60,6 +60,9 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Jayanta K Dutta, Jiayi Liu, Unmesh Kurup, Mohak Shah. *Arxiv 1801*
 - DARTS: Differentiable Architecture Search [[pdf]](https://arxiv.org/abs/1806.09055) [[code]](https://github.com/quark0/darts)
   - Hanxiao Liu, Karen Simonyan, Yiming Yang. *Arxiv 1806*
+- Efficient Neural Architecture Search with Network Morphism [[pdf]](https://arxiv.org/abs/1806.10282) [[code]](https://github.com/jhfjhfj1/autokeras)
+  - Haifeng Jin, Qingquan Song, Xia Hu. *Arxiv 1806*
+
 
 ## Hyper-Parameter Search
 - Speeding up Automatic Hyperparameter Optimization of Deep Neural Networksby Extrapolation of Learning Curves [[pdf]](http://ml.informatik.uni-freiburg.de/papers/15-IJCAI-Extrapolation_of_Learning_Curves.pdf) [[code]](https://github.com/automl/pylearningcurvepredictor)
