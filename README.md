@@ -49,7 +49,7 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 - SMASH: One-Shot Model Architecture Search through HyperNetworks [[pdf]](https://arxiv.org/abs/1708.05344) [[code]](https://github.com/ajbrock/SMASH)
   - Andrew Brock, Theodore Lim, J.M. Ritchie, Nick Weston. *ICLR'18*
 - Simple and efficient architecture search for Convolutional Neural Networks [[pdf]](https://arxiv.org/abs/1711.04528)
-  - Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter. *Invited to ICLR'18 Workshop*
+  - Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter. *ICLR'18 Workshop*
 - Progressive Neural Architecture Search [[pdf]](https://arxiv.org/abs/1712.00559)
   - Chenxi Liu, Barret Zoph, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy. *Arxiv 1712*
 - DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures [[pdf]](https://arxiv.org/abs/1806.08198)
@@ -72,7 +72,7 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 - Learning Curve Prediction with Bayesian Neural Networks [[pdf]](http://ml.informatik.uni-freiburg.de/papers/17-ICLR-LCNet.pdf)
   - Aaron Klein, Stefan Falkner, Jost Tobias Springenberg, Frank Hutter. *ICLR'17*
 - Accelerating Neural Architecture Search using Performance Prediction [[pdf]](https://arxiv.org/abs/1705.10823)
-  - Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik. *Invited to ICLR'18 Workshop*
+  - Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik. *ICLR'18 Workshop*
 - Hyperparameter Optimization: A Spectral Approach [[pdf]](https://arxiv.org/abs/1706.00764) [[code]](https://github.com/callowbird/Harmonica)
   - Elad Hazan, Adam Klivans, Yang Yuan. *NIPS DLTP Workshop 2017*
 - Population Based Training of Neural Networks [[pdf]](https://arxiv.org/abs/1711.09846)
