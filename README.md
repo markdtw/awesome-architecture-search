@@ -62,6 +62,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Hanxiao Liu, Karen Simonyan, Yiming Yang. *Arxiv 1806*
 - Efficient Neural Architecture Search with Network Morphism [[pdf]](https://arxiv.org/abs/1806.10282) [[code]](https://github.com/jhfjhfj1/autokeras)
   - Haifeng Jin, Qingquan Song, Xia Hu. *Arxiv 1806*
+- Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [[pdf]](https://arxiv.org/abs/1809.04184) 
+  - Liang-Chieh Chen, Maxwell D. Collins, Yukun Zhu, George Papandreou, Barret Zoph, Florian Schroff, Hartwig Adam, Jonathon Shlens. *Arxiv 1809*
 
 
 ## Hyper-Parameter Search
