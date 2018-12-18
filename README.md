@@ -32,6 +32,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean. *Arxiv 1802*
 - Path-Level Network Transformation for Efficient Architecture Search [[pdf]](https://arxiv.org/abs/1806.02639) [[code]](https://github.com/han-cai/PathLevel-EAS)
   - Han Cai, Jiacheng Yang, Weinan Zhang, Song Han, Yong Yu. *ICML'18*
+- AMC: AutoML for Model Compression and Acceleration on Mobile Devices [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf) [[code (not official)]](https://github.com/Tencent/PocketFlow)
+  - Yihui He, Ji Lin, Zhijian Liu, Hanrui Wang, Li-Jia Li, Song Han. *ECCV'18*
 
 ### Evolutionary Algorithm
 - Large-Scale Evolution of Image Classifiers [[pdf]](https://arxiv.org/abs/1703.01041)
