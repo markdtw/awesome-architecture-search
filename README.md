@@ -67,7 +67,7 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 - Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [[pdf]](https://arxiv.org/abs/1809.04184) 
   - Liang-Chieh Chen, Maxwell D. Collins, Yukun Zhu, George Papandreou, Barret Zoph, Florian Schroff, Hartwig Adam, Jonathon Shlens. *Arxiv 1809*
 - MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_MorphNet_Fast__CVPR_2018_paper.pdf)
-  - Ariel Gordon, Elad Eban, Bo Chen, Ofir Nachum, Tien-Ju Yang, Edward Choi. *CVPR'2018*
+  - Ariel Gordon, Elad Eban, Bo Chen, Ofir Nachum, Tien-Ju Yang, Edward Choi. *CVPR'18*
 
 
 ## Hyper-Parameter Search
