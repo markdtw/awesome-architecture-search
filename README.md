@@ -28,6 +28,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Barret Zoph, Vijay Vasudevan, Jonathan Shlens, Quoc V. Le. *Arxiv 1707*
 - Practical Network Blocks Design with Q-Learning [[pdf]](https://arxiv.org/abs/1708.05552)
   - Zhao Zhong, Junjie Yan, Cheng-Lin Liu. *CVPR'18*
+- A Flexible Approach to Automated RNN Architecture Generation [[pdf]](https://arxiv.org/abs/1712.07316)
+  - Martin Schrimpf, Stephen Merity, James Bradbury, Richard Socher. *ICLR'18*
 - Efficient Neural Architecture Search via Parameter Sharing [[pdf]](https://arxiv.org/abs/1802.03268) [[code (not official)]](https://github.com/carpedm20/ENAS-pytorch) [[code (official)]](https://github.com/melodyguan/enas)
   - Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean. *Arxiv 1802*
 - Path-Level Network Transformation for Efficient Architecture Search [[pdf]](https://arxiv.org/abs/1806.02639) [[code]](https://github.com/han-cai/PathLevel-EAS)
@@ -68,6 +70,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Liang-Chieh Chen, Maxwell D. Collins, Yukun Zhu, George Papandreou, Barret Zoph, Florian Schroff, Hartwig Adam, Jonathon Shlens. *Arxiv 1809*
 - AMC: AutoML for Model Compression and Acceleration on Mobile Devices [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf) [[code (not official)]](https://github.com/Tencent/PocketFlow)
   - Yihui He, Ji Lin, Zhijian Liu, Hanrui Wang, Li-Jia Li, Song Han. *ECCV'18*
+- MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_MorphNet_Fast__CVPR_2018_paper.pdf)
+  - Ariel Gordon, Elad Eban, Bo Chen, Ofir Nachum, Tien-Ju Yang, Edward Choi. *CVPR'18*
 
 ## Hyper-Parameter Search
 - Speeding up Automatic Hyperparameter Optimization of Deep Neural Networksby Extrapolation of Learning Curves [[pdf]](http://ml.informatik.uni-freiburg.de/papers/15-IJCAI-Extrapolation_of_Learning_Curves.pdf) [[code]](https://github.com/automl/pylearningcurvepredictor)
