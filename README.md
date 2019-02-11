@@ -26,8 +26,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu, Jun Wang. *AAAI'18*
 - Learning Transferable Architectures for Scalable Image Recognition [[pdf]](https://arxiv.org/abs/1707.07012) [[nasnet]](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet)
   - Barret Zoph, Vijay Vasudevan, Jonathan Shlens, Quoc V. Le. *Arxiv 1707*
-- Practical Network Blocks Design with Q-Learning [[pdf]](https://arxiv.org/abs/1708.05552)
-  - Zhao Zhong, Junjie Yan, Cheng-Lin Liu. *CVPR'18*
+- Practical Block-wise Neural Network Architecture Generation [[pdf]](https://arxiv.org/abs/1708.05552)
+  - Zhao Zhong, Junjie Yan, Wei Wu, Jing Shao, Cheng-Lin Liu. *CVPR'18*
 - A Flexible Approach to Automated RNN Architecture Generation [[pdf]](https://arxiv.org/abs/1712.07316)
   - Martin Schrimpf, Stephen Merity, James Bradbury, Richard Socher. *ICLR'18*
 - Efficient Neural Architecture Search via Parameter Sharing [[pdf]](https://arxiv.org/abs/1802.03268) [[code (not official)]](https://github.com/carpedm20/ENAS-pytorch) [[code (official)]](https://github.com/melodyguan/enas)
