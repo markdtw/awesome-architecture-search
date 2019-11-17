@@ -9,11 +9,15 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 
 ## Table of Contents
 
-- [Architecture Search](#architecture-search)
-  - [Reinforcement Learning](#reinforcement-learning)
-  - [Evolutionary Algorithm](#evolutionary-algorithm)
-  - [Others](#others)
-- [Hyper-parameter Search](#hyper-parameter-search)
+- [Awesome Architecture Search ![Awesome](https://awesome.re)](#awesome-architecture-search-awesomehttpsawesomere)
+  - [Table of Contents](#table-of-contents)
+  - [Architecture Search](#architecture-search)
+    - [Reinforcement Learning](#reinforcement-learning)
+    - [Evolutionary Algorithm](#evolutionary-algorithm)
+    - [Others](#others)
+  - [Hyper-Parameter Search](#hyper-parameter-search)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Architecture Search
 
@@ -44,6 +48,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Hanxiao Liu, Karen Simonyan, Oriol Vinyals, Chrisantha Fernando, Koray Kavukcuoglu. *ICLR'18*
 - Regularized Evolution for Image Classifier Architecture Search [[pdf]](https://arxiv.org/abs/1802.01548)
   - Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le. *Arxiv 1802*
+- Weight Agnostic Neural Networks [[pdf]](https://arxiv.org/abs/1906.04358)
+  - Adam Gaier, David Ha. *NeurIPS'19*
 
 ### Others
 - Neural Architecture Optimization [[pdf]](https://arxiv.org/abs/1808.07233) [[code]](https://github.com/renqianluo/NAO)
