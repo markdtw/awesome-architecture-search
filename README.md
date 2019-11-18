@@ -9,15 +9,13 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 
 ## Table of Contents
 
-- [Awesome Architecture Search ![Awesome](https://awesome.re)](#awesome-architecture-search-awesomehttpsawesomere)
-  - [Table of Contents](#table-of-contents)
-  - [Architecture Search](#architecture-search)
-    - [Reinforcement Learning](#reinforcement-learning)
-    - [Evolutionary Algorithm](#evolutionary-algorithm)
-    - [Others](#others)
-  - [Hyper-Parameter Search](#hyper-parameter-search)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Architecture Search](#architecture-search)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Evolutionary Algorithm](#evolutionary-algorithm)
+  - [Others](#others)
+- [Hyper-Parameter Search](#hyper-parameter-search)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Architecture Search
 
