@@ -36,6 +36,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean. *Arxiv 1802*
 - Path-Level Network Transformation for Efficient Architecture Search [[pdf]](https://arxiv.org/abs/1806.02639) [[code]](https://github.com/han-cai/PathLevel-EAS)
   - Han Cai, Jiacheng Yang, Weinan Zhang, Song Han, Yong Yu. *ICML'18*
+- MnasNet: Platform-Aware Neural Architecture Search for Mobile [[pdf]](https://arxiv.org/pdf/1807.11626.pdf)
+  - Mingxing Tan, Bo Chen, Ruoming Pang, Vijay Vasudevan, Mark Sandler, Andrew Howard, Quoc V. Le *CVPR'19*
 
 ### Evolutionary Algorithm
 - Large-Scale Evolution of Image Classifiers [[pdf]](https://arxiv.org/abs/1703.01041)
@@ -48,6 +50,24 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le. *Arxiv 1802*
 - Weight Agnostic Neural Networks [[pdf]](https://arxiv.org/abs/1906.04358)
   - Adam Gaier, David Ha. *NeurIPS'19*
+
+### One-Shot 
+- DARTS: Differentiable Architecture Search [[pdf]](https://arxiv.org/abs/1806.09055) [[code]](https://github.com/quark0/darts)
+  - Hanxiao Liu, Karen Simonyan, Yiming Yang. *Arxiv 1806*
+- FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search [[pdf]](https://arxiv.org/pdf/1907.01845.pdf) [[code]](https://github.com/xiaomi-automl/FairNAS)
+  - Xiangxiang Chu, Bo Zhang, Ruijun Xu, Jixiang Li 
+- Efficient Differentiable Neural Architecture Search with Meta Kernels [[pdf]](https://arxiv.org/pdf/1912.04749.pdf)
+  - Shoufa Chen, Yunpeng Chen, Shuicheng Yan, Jiashi Feng *Arxiv 1912*
+- FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search [[pdf]](https://arxiv.org/pdf/1812.03443.pdf)
+  - Bichen Wu, Xiaoliang Dai, Peizhao Zhang, Yanghan Wang, Fei Sun, Yiming Wu, Yuandong Tian, Peter Vajda, Yangqing Jia, and Kurt Keutzer *CVPR'19*
+- HM-NAS: Efficient Neural Architecture Search via Hierarchical Masking [[pdf]](https://arxiv.org/pdf/1909.00122.pdf)
+  - Shen Yan, Biyi Fang, Faen Zhang, Yu Zheng, Xiao Zeng, Hui Xu, Mi Zhang *ICCV'19*
+- Single Path One-Shot Neural Architecture Search with Uniform Sampling [[pdf]](https://arxiv.org/pdf/1904.00420.pdf)
+  - Zichao Guo, Xiangyu Zhang, Haoyuan Mu, Wen Heng, Zechun Liu, Yichen Wei, Jian Sun *Arxiv 1904*
+- Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours [[pdf]](https://arxiv.org/pdf/1904.02877.pdf)
+  - Dimitrios Stamoulis, Ruizhou Ding, Di Wang, Dimitrios Lymberopoulos, Bodhi Priyantha, Jie Liu, Diana Marculescu *Arxiv 1904*
+- Once for All: Train One Network and Specialize it for Efficient Deployment [[pdf]](https://arxiv.org/pdf/1908.09791.pdf)
+  - Han Cai, Chuang Gan, Song Han *Arxiv 1908*
 
 ### Others
 - Neural Architecture Optimization [[pdf]](https://arxiv.org/abs/1808.07233) [[code]](https://github.com/renqianluo/NAO)
@@ -66,8 +86,6 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Kirthevasan Kandasamy, Willie Neiswanger, Jeff Schneider, Barnabas Poczos, Eric Xing. *Arxiv 1802*
 - Effective Building Block Design for Deep Convolutional Neural Networks using Search [[pdf]](https://arxiv.org/abs/1801.08577)
   - Jayanta K Dutta, Jiayi Liu, Unmesh Kurup, Mohak Shah. *Arxiv 1801*
-- DARTS: Differentiable Architecture Search [[pdf]](https://arxiv.org/abs/1806.09055) [[code]](https://github.com/quark0/darts)
-  - Hanxiao Liu, Karen Simonyan, Yiming Yang. *Arxiv 1806*
 - Efficient Neural Architecture Search with Network Morphism [[pdf]](https://arxiv.org/abs/1806.10282) [[code]](https://github.com/jhfjhfj1/autokeras)
   - Haifeng Jin, Qingquan Song, Xia Hu. *Arxiv 1806*
 - Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [[pdf]](https://arxiv.org/abs/1809.04184) 
@@ -80,6 +98,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Adam Gaier, David Ha. *NeurIPS'19*
 - Towards Modular and Programmable Architecture Search [[pdf]](https://arxiv.org/abs/1909.13404) [[code]](https://github.com/negrinho/deep_architect)
   - Renato Negrinho, Darshan Patil, Nghia Le, Daniel Ferreira, Matthew Gormley, Geoffrey Gordon. *NeurIPS'19*
+- Resource Constrained Neural Network Architecture Search: Will a Submodularity Assumption Help? [[pdf]](https://arxiv.org/pdf/1904.03786.pdf)
+  - Yunyang Xiong, Ronak Mehta, Vikas Singh *ICCV'19*
 
 ## Hyper-Parameter Search
 - Speeding up Automatic Hyperparameter Optimization of Deep Neural Networksby Extrapolation of Learning Curves [[pdf]](http://ml.informatik.uni-freiburg.de/papers/15-IJCAI-Extrapolation_of_Learning_Curves.pdf) [[code]](https://github.com/automl/pylearningcurvepredictor)
