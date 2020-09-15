@@ -94,7 +94,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Elad Hazan, Adam Klivans, Yang Yuan. *NIPS DLTP Workshop 2017*
 - Population Based Training of Neural Networks [[pdf]](https://arxiv.org/abs/1711.09846)
   - Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando, Koray Kavukcuoglu. *Arxiv 1711*
-
+- On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice [[pdf]](https://arxiv.org/abs/2007.15745) [[code]](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms)
+  - Li Yang, Abdallah Shami. *Neurocomputing 2020*
 
 ## Contributing
 <p align="center">
